@@ -1,4 +1,4 @@
-# Using a New Machine Learning Classifier for Algorithmic Trading
+# Machine Learning Classifier for Algorithmic Trading
 
 ## Background
 
