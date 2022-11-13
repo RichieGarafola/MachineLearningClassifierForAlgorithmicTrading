@@ -26,3 +26,4 @@ Train a logistic regression model to make trading predictions, backtest the resu
 * [SKLearn SVM - SVC Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 
 * [SKLearn LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
